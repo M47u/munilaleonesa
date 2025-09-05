@@ -226,7 +226,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center text-primary-foreground/80">
-            <p>&copy; 2024 Municipalidad de La Leonesa. Todos los derechos reservados.</p>
+            <p>&copy; 2025 Municipalidad de La Leonesa. Todos los derechos reservados.</p>
           </div>
         </div>
       </footer>
